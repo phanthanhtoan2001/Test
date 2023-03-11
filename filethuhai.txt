@@ -1,3 +1,5 @@
 commit sua file 
 commit lan 3
 Dong 1 may tinh 2
+
+Sua doi 1
